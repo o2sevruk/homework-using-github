@@ -1,0 +1,22 @@
+{
+  "name": "homework-using-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pon79/homework-using-github.git"
+  },
+  "author": "Aleksandr Ponomarev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pon79/homework-using-github/issues"
+  },
+  "homepage": "https://github.com/pon79/homework-using-github#readme"
+}
